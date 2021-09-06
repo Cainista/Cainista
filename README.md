@@ -1,5 +1,6 @@
 - 👋 Hi every1, I’m @Cainista
 - 👀 I’m interested in learn new ways to destroy computers
+- 📷 I love to take photos 
 - :gem: I’m currently learning ruby
 - 💞️ I’m looking to collaborate on Chaos projects
 - 📫 You can reach me at cainista@gmail.com
