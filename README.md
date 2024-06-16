@@ -1,9 +1,8 @@
-- 👋 Hi every1, I’m @Cainista
-- 👀 I’m interested in learn new ways to destroy computers
-- 📷 I love to take photos 
-- :gem: I’m currently learning ruby
-- 💞️ I’m looking to collaborate on Chaos projects
-- 📫 You can reach me at cainista@gmail.com
+- 👀 I’m passionate about discovering innovative ways to work with computers
+- 📷 Photography enthusiast
+- 💎 Currently diving into Ruby
+- 💞️ Looking to collaborate on Chaos engineering projects
+- 📫 Reach me at cainista@gmail.com
 
 <!---
 Cainista/Cainista is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
